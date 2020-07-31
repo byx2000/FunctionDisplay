@@ -1,1 +1,0 @@
-Run "Release\º¯Êý»æÍ¼Æ÷.exe"
